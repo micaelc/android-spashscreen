@@ -91,4 +91,4 @@ protected void onCreate(Bundle savedInstanceState) {
 
 Notice that you don’t even set up a view for this SplashActivity. The view comes from the theme. When you set up the UI for your splash activity in the theme, it is available immediately.
 
-![alt text](https://github.com/micaelc/android-spashscreen/art/SpalshScreen.png)
+![alt text](https://github.com/micaelc/android-spashscreen/blob/master/art/SplashScreen.png)
